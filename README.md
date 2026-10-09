@@ -1,16 +1,41 @@
-## Hi there 👋
+# Arbër Leshi
 
-<!--
-**Arberleshi-Forge/Arberleshi-Forge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering student · Mobile, backend and web development**
 
-Here are some ideas to get you started:
+I'm based in Tirana, Albania, and studying Software Engineering at Tirana Business University College, with expected graduation in July 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm developing **Ritemo**, an event discovery and ticketing platform. My work includes defining requirements, evaluating technical approaches, investigating issues and validating application behavior. I'm particularly interested in backend engineering, data consistency and reliable software design.
+
+I'm looking for **junior and graduate software engineering opportunities**, including international remote work and relocation.
+
+## Selected projects
+
+### Ritemo — Event discovery and ticketing
+
+A platform under active development, spanning Flutter mobile applications, Firebase/Node.js backend services and a React/TypeScript product website.
+
+The project has given me practical experience with payment confirmation, transactional ticket reservations, QR admission, access controls and recovery after interrupted requests. I work on requirements, implementation decisions, debugging and testing across buyer and organizer workflows.
+
+**Project technologies:** Flutter, Dart, Node.js, Firebase, Cloud Firestore, Stripe, React and TypeScript.
+
+[Explore the product website →](https://getritemo.com)
+
+### LogicLab — University team project
+
+An educational Python/Django application developed with university classmates, connecting discrete mathematics, digital logic and algorithms.
+
+Features include Boolean expression analysis, truth tables, SOP/POS forms, logic-gate construction steps, sorting visualizations and recursion demonstrations. The interface supports English and Albanian. The repository includes local setup instructions, automated regression tests and GitHub Actions checks.
+
+**Project technologies:** Python, Django, SymPy, SQLite, HTML, CSS, JavaScript and Bootstrap.
+
+[Explore the source code and documentation →](https://github.com/Arberleshi-Forge/logiclab)
+
+## Engineering interests
+
+- Backend services and reliable application workflows
+- Data consistency, authorization and payment integrations
+- Debugging, automated testing and clear technical documentation
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/arb%C3%ABr-leshi/) · [Ritemo](https://getritemo.com)
