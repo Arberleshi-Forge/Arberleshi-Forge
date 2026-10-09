@@ -30,6 +30,16 @@ Features include Boolean expression analysis, truth tables, SOP/POS forms, logic
 
 [Explore the source code and documentation →](https://github.com/Arberleshi-Forge/logiclab)
 
+### Skadencat+ — Inventory and expiry tracking
+
+A personal web application for sales-agent workflows, covering stores, products, delivery batches, expiry dates and physical stock checks. It includes English/Albanian language switching and device-local storage with IndexedDB.
+
+The public repository includes setup instructions, illustrative screenshots, automated regression tests and GitHub Actions checks.
+
+**Project technologies:** JavaScript, HTML, CSS, Vite, IndexedDB and Service Workers.
+
+[Explore the source code and documentation →](https://github.com/Arberleshi-Forge/skadencat-plus)
+
 ## Engineering interests
 
 - Backend services and reliable application workflows
